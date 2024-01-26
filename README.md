@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuno Maia</h1>
 <h3 align="center">I'm starting to study python, and I'm excited to learn more.</h3>
-<img align="right" alt="Coding" width="400" src="https://python-adv-web-apps.readthedocs.io/en/latest/_images/atom.png">
+<img align="center" alt="Coding" width="400" src="https://python-adv-web-apps.readthedocs.io/en/latest/_images/atom.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notsoslimshaady&label=Profile%20views&color=0e75b6&style=flat" alt="notsoslimshaady" /> </p>
 
